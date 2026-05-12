@@ -1,0 +1,2 @@
+Movie: Avengers: Doomsday | Seats: 2 | Payment: Credit Card | Total: 620
+Movie: Spider-Man: Brand New Day | Seats: 1 | Payment: Credit Card | Total: 290
